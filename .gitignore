@@ -184,4 +184,5 @@ cython_debug/
 /data/fakenewsnet_dataset/
 /data/kaggle_dataset/
 /data/liar_dataset/
-
+.DS_Store
+venv/
